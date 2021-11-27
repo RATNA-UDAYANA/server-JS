@@ -1,2 +1,2 @@
-# server-JS
-server code for controlling RATNA robot, JS based
+# RATNA02-server-JS
+controlling RATNA robot from a server using Node JS and Vite
